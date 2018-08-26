@@ -1,0 +1,2 @@
+python, pip
+python libraries: chatterbot, datetime, sys, nltk
